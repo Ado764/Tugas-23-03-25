@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, sans-serif;
+    
+}
+header{
+    background-color: #3F7D58;
+    text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    padding: 5px 5px 5px 5px ;
+}
+img{
+    border-radius: 100%  ;
+    height: auto;
+    width: 150px;
+    margin-right: 20px;
+    padding: 20px 15px 20px 15px;
+}
+.profil{
+    align-items: flex-start;
+display: flex;
+margin: 20px 20px 20px 20px;
+background-color: white;
+}
+.teks{
+    display: inline-block;
+    line-height: 1.5;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    text-align: center;
+}
+table,th,tr,td{
+    border: 1px solid black;
+}
+th{
+    background-color: bisque;
+    font-weight: bold;
+}
+#keterampilan{
+    background-color: #EEF7FF;
+}
+#kontak{
+    padding: 20px;
+    background-color: #EEF7FF;
+}
